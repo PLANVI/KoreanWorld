@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Button buttonStart = (Button)findViewById(R.id.buttonStart_main);
-        // Test
+
         buttonStart.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v) {
