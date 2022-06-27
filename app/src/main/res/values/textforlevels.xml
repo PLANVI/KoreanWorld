@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lv1text0">Ноль</string>
+    <string name="lv1text1">Один</string>
+    <string name="lv1text2">Два</string>
+    <string name="lv1text3">Три</string>
+    <string name="lv1text4">Четыре</string>
+    <string name="lv1text5">Пять</string>
+    <string name="lv1text6">Шесть</string>
+    <string name="lv1text7">Семь</string>
+    <string name="lv1text8">Восемь</string>
+    <string name="lv1text9">Девять</string>
+
+
+    <string name="lv2text1">I</string>
+    <string name="lv2text2">II</string>
+    <string name="lv2text3">III</string>
+    <string name="lv2text4">IV</string>
+    <string name="lv2text5">V</string>
+    <string name="lv2text6">VI</string>
+    <string name="lv2text7">VII</string>
+    <string name="lv2text8">VIII</string>
+    <string name="lv2text9">IX</string>
+    <string name="lv2text10">X</string>
+
+    <string name="lv3text1">кролик</string>
+    <string name="lv3text2">коала</string>
+    <string name="lv3text3">прыгунчик</string>
+    <string name="lv3text4">жираф</string>
+    <string name="lv3text5">теленок</string>
+    <string name="lv3text6">болонка</string>
+    <string name="lv3text7">заяц</string>
+    <string name="lv3text8">белка</string>
+    <string name="lv3text9">тюлень</string>
+    <string name="lv3text10">лиса</string>
+    <string name="lv3text11">тигр</string>
+    <string name="lv3text12">кот</string>
+    <string name="lv3text13">лис</string>
+    <string name="lv3text14">жираф</string>
+    <string name="lv3text15">козел</string>
+    <string name="lv3text16">бегемот</string>
+    <string name="lv3text17">хаски</string>
+    <string name="lv3text18">страус</string>
+    <string name="lv3text19">лев</string>
+    <string name="lv3text20">кабан</string>
+    <string name="lv3text21">волк</string>
+
+
+    <string name="lv4text1">морковка</string>
+    <string name="lv4text2">что-то</string>
+    <string name="lv4text3">огуречик</string>
+    <string name="lv4text4">что-то</string>
+    <string name="lv4text5">вишня</string>
+    <string name="lv4text6">что-то</string>
+    <string name="lv4text7">что-то</string>
+    <string name="lv4text8">что-то</string>
+    <string name="lv4text9">что-то</string>
+    <string name="lv4text10">что-то</string>
+    <string name="lv4text11">что-то</string>
+    <string name="lv4text12">что-то</string>
+    <string name="lv4text13">что-то</string>
+    <string name="lv4text14">что-то</string>
+    <string name="lv4text15">что-то</string>
+    <string name="lv4text16">что-то</string>
+    <string name="lv4text17">что-то</string>
+    <string name="lv4text18">что-то</string>
+    <string name="lv4text19">что-то</string>
+    <string name="lv4text20">что-то</string>
+
+
+</resources>
